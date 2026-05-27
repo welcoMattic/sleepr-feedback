@@ -1,7 +1,8 @@
 # Sleepr Feedback 
 
-Website - https://sleepr.app/
-Mac AppStore - https://apps.apple.com/us/app/sleepr-app/id6465683427
+🔗 Website - https://sleepr.app/
+
+ Mac AppStore - https://apps.apple.com/us/app/sleepr-app/id6465683427
 
 ## Instruction for feedback
 
